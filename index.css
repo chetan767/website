@@ -1,0 +1,84 @@
+html, body {
+  width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+}
+
+.left {
+      height: 195%;
+      margin: 0;
+      padding: 0;
+  width: 16%;
+  float: left;
+  background-color: rgb(235, 236, 244);
+}
+
+table{
+  margin: 4px;
+  margin-top: 40px;
+  align-self: center;
+  margin-left: 30px
+}
+.lang
+{
+  margin-top: 40px;
+  margin-left: 30px
+}
+.ref{
+  font-size: 30;
+  font-weight: bold;
+}
+.hpright{
+  margin-left:70px;
+
+}
+.hright
+{
+color : rgb(16, 131, 140);
+margin-left:70px;
+}
+.right
+	{
+  background-color: rgb(247, 247, 252);
+
+		height: 195%;
+		width: 84%;
+    margin: 0px;
+		float: right;
+	}
+img{
+
+  height: 18%;
+  width:100%;
+
+}
+
+.skills{
+margin: 40px;
+margin-left: 50px
+
+}
+
+.line{
+
+    height: 0px;
+     border: none;
+     margin-right: 50px;
+     border-top: 1px solid black;
+}
+
+.lineR{
+
+    height: 0px;
+     border: none;
+     margin-left: 70px;
+     margin-right: 50px;
+     border-top: 1px solid black;
+}
+
+td
+{
+  padding: 12px;
+  color: white;
+}
